@@ -10,5 +10,6 @@
 
 # References
 
-1. [MicroPython: WS2812B Addressable RGB LEDs with ESP32 and ESP8266](https://randomnerdtutorials.com/micropython-ws2812b-addressable-rgb-leds-neopixel-esp32-esp8266/)
-2. [MicroPython](https://docs.micropython.org/en/latest/index.html)
+1. [MicroPython](https://docs.micropython.org/en/latest/index.html)
+2. [MicroPython: WS2812B Addressable RGB LEDs with ESP32 and ESP8266](https://randomnerdtutorials.com/micropython-ws2812b-addressable-rgb-leds-neopixel-esp32-esp8266/)
+
