@@ -17,3 +17,4 @@
 5. [Configuring Bluetooth devices with bluetoothctl](https://www.linux-magazine.com/Issues/2017/197/Command-Line-bluetoothctl)
 6. [MicroPython on ESP32 學習筆記 (一) : 燒錄韌體](http://yhhuang1966.blogspot.com/2019/06/esp32-micropython.html)
 7. [upycraft](http://docs.dfrobot.com.cn/upycraft/)
+8. [TTGO (color) Display With Micropython (TTGO T-display)](https://www.instructables.com/id/TTGO-color-Display-With-Micropython-TTGO-T-display/)
